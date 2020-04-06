@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85bb4cde-9605-4ad6-aa07-ec5a31803572" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zw5Omioifi5aQDx5fwdy6iWFpw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/prepare_data_set/tfrecords_train.py" />
+  </component>
+  <component name="RunManager" selected="Python.tfrecords_encoder_pndata">
+    <configuration name="create_csv" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="VAEGAN-impurity-detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jiachenlu\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prepare_data_set" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prepare_data_set/create_csv.py" />
+      <option name="PARAMETERS" value="--path 20200402.141647-data-x64.z1024.VAE-GAN.y64.b64" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="label" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="VAEGAN-impurity-detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jiachenlu\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prepare_data_set" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prepare_data_set/label.py" />
+      <option name="PARAMETERS" value="--input_path D:\\JiachenLu\\PycharmProjects\\impurity-detection\\defect --height 64 -p" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tfrecords_demo" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="VAEGAN-impurity-detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jiachenlu\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prepare_data_set" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prepare_data_set/tfrecords_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tfrecords_encoder_pndata" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="VAEGAN-impurity-detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jiachenlu\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prepare_data_set" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prepare_data_set/tfrecords_encoder_pndata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tfrecords_train" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="VAEGAN-impurity-detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jiachenlu\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prepare_data_set" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prepare_data_set/tfrecords_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.tfrecords_train" />
+      <item itemvalue="Python.tfrecords_demo" />
+      <item itemvalue="Python.label" />
+      <item itemvalue="Python.tfrecords_encoder_pndata" />
+      <item itemvalue="Python.create_csv" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85bb4cde-9605-4ad6-aa07-ec5a31803572" name="Default Changelist" comment="" />
+      <created>1585737285814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585737285814</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585884343673">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1585884343673" />
+    <state x="396" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585806852900">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1585806852900" />
+    <state x="421" y="45" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1585826562751">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="45" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.680@0.0.1280.680" timestamp="1585826562751" />
+    <state x="396" y="46" key="#xdebugger.evaluate" timestamp="1585826736005">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="46" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1585826736005" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1585836952798">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585836952798" />
+    <state width="1259" height="105" key="GridCell.Tab.0.bottom" timestamp="1585884344447">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="105" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585884344447" />
+    <state width="1259" height="105" key="GridCell.Tab.0.center" timestamp="1585884344447">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="105" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585884344447" />
+    <state width="1259" height="105" key="GridCell.Tab.0.left" timestamp="1585884344446">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="105" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585884344446" />
+    <state width="1259" height="105" key="GridCell.Tab.0.right" timestamp="1585884344447">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="105" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585884344447" />
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1585826753317">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585826753317" />
+    <state width="1259" height="204" key="GridCell.Tab.1.center" timestamp="1585826753317">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1585826753317" />
+    <state width="1259" height="204" key="GridCell.Tab.1.left" timestamp="1585826753317">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1585826753317" />
+    <state width="1259" height="204" key="GridCell.Tab.1.right" timestamp="1585826753317">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1585826753317" />
+  </component>
+</project>
