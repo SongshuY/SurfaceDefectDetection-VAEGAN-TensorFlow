@@ -95,9 +95,9 @@ python train.py --data_size xxx
 ```
 其中xxx为训练集样本数量。其余参数参见`./train.py`注释。训练生成的图片位于`./out/xxx/samples`下。样例如下
 ##### 训练输入图片
-![输入](./picture/train_in.png)<br>
+![输入](https://github.com/VictorLlu/SurfaceDefectDetection-VAEGAN-TensorFlow/blob/master/picture/train_in.png)<br>
 ##### 训练输出图片
-![输出](./picture/train_out.png)<br>
+![输出](https://github.com/VictorLlu/SurfaceDefectDetection-VAEGAN-TensorFlow/blob/master/picture/train_out.png)<br>
 ### 测试正负样本
 确保`./data/test_encoder_pndata.tfrecords/`存在，并运行
 ```
@@ -121,9 +121,9 @@ python test_encoder_pndata.py --data_size 20 --out_name 20200402.141647-data-x64
 ```
 输出内容位于`./out/xxx/detection_results`下，生成的图片效果如图所示
 ##### 输入图片
-![输入](./picture/detection_in.bmp)<br>
+![输入](https://github.com/VictorLlu/SurfaceDefectDetection-VAEGAN-TensorFlow/blob/master/picture/detection_in.bmp)<br>
 ##### 输出图片
-![输出](./picture/detection_out.bmp)<br>
+![输出](https://github.com/VictorLlu/SurfaceDefectDetection-VAEGAN-TensorFlow/blob/master/picture/detection_out.bmp)<br>
 
 ## 贡献者
 卢嘉晨
